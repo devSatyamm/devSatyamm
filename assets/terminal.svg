@@ -1,0 +1,32 @@
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="900" height="240" rx="18" fill="#0D1117"/>
+
+<rect width="900" height="42" rx="18" fill="#161B22"/>
+
+<circle cx="28" cy="21" r="6" fill="#FF5F56"/>
+<circle cx="50" cy="21" r="6" fill="#FFBD2E"/>
+<circle cx="72" cy="21" r="6" fill="#27C93F"/>
+
+<text x="28" y="78" fill="#58A6FF" font-size="18" font-family="monospace">
+$ whoami
+</text>
+
+<text x="28" y="108" fill="#F8FAFC" font-size="18" font-family="monospace">
+Satyam Mishra
+</text>
+
+<text x="28" y="145" fill="#58A6FF" font-size="18" font-family="monospace">
+$ skills
+</text>
+
+<text x="28" y="175" fill="#00C853" font-size="18" font-family="monospace">
+AI • Python • Java • JavaScript • Flutter • React • Git
+</text>
+
+<text x="28" y="210" fill="#58A6FF" font-size="18" font-family="monospace">
+$ currently_building █
+<animate attributeName="opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite"/>
+</text>
+
+</svg>
