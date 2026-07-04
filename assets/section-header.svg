@@ -1,0 +1,83 @@
+<svg width="1200" height="70" viewBox="0 0 1200 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="left" x1="0" y1="35" x2="520" y2="35">
+    <stop offset="0%" stop-color="#0D1117"/>
+    <stop offset="100%" stop-color="#00C853"/>
+</linearGradient>
+
+<linearGradient id="right" x1="680" y1="35" x2="1200" y2="35">
+    <stop offset="0%" stop-color="#00C853"/>
+    <stop offset="100%" stop-color="#0D1117"/>
+</linearGradient>
+
+<filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+</filter>
+
+</defs>
+
+<!-- Left Line -->
+<line
+x1="40"
+y1="35"
+x2="520"
+y2="35"
+stroke="url(#left)"
+stroke-width="2.5"
+filter="url(#glow)"/>
+
+<!-- Center Circle -->
+<circle cx="600" cy="35" r="6" fill="#00C853">
+
+<animate
+attributeName="r"
+values="5;8;5"
+dur="2.2s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="opacity"
+values="1;0.55;1"
+dur="2.2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Orbiting Dots -->
+<circle cx="580" cy="35" r="2.5" fill="#58A6FF">
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 600 35"
+to="360 600 35"
+dur="6s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="620" cy="35" r="2.5" fill="#00E676">
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="360 600 35"
+to="0 600 35"
+dur="6s"
+repeatCount="indefinite"/>
+</circle>
+
+<!-- Right Line -->
+<line
+x1="680"
+y1="35"
+x2="1160"
+y2="35"
+stroke="url(#right)"
+stroke-width="2.5"
+filter="url(#glow)"/>
+
+</svg>
