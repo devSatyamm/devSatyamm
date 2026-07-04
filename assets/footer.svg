@@ -1,0 +1,123 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#161B22"/>
+</linearGradient>
+
+<linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="50%" stop-color="#00C853"/>
+<stop offset="100%" stop-color="#0D1117"/>
+</linearGradient>
+
+<linearGradient id="text" x1="0" y1="0" x2="1200" y2="0">
+<stop offset="0%" stop-color="#00E676"/>
+<stop offset="100%" stop-color="#58A6FF"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect
+width="1200"
+height="180"
+fill="url(#bg)"/>
+
+<line
+x1="120"
+y1="30"
+x2="1080"
+y2="30"
+stroke="url(#line)"
+stroke-width="2"
+filter="url(#glow)"/>
+
+<text
+x="600"
+y="82"
+text-anchor="middle"
+fill="url(#text)"
+font-size="28"
+font-family="Segoe UI, Arial"
+font-weight="700">
+
+Designed &amp; Built by
+
+</text>
+
+<text
+x="600"
+y="122"
+text-anchor="middle"
+fill="#FFFFFF"
+font-size="34"
+font-family="Segoe UI, Arial"
+font-weight="700">
+
+Satyam Mishra
+
+</text>
+
+<text
+x="600"
+y="152"
+text-anchor="middle"
+fill="#8B949E"
+font-size="16"
+font-family="Segoe UI, Arial">
+
+AI • Full Stack • Open Source
+
+</text>
+
+<circle cx="250" cy="60" r="3" fill="#00C853">
+
+<animate
+attributeName="opacity"
+values="0;1;0"
+dur="3s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="980" cy="90" r="2" fill="#58A6FF">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="2.5s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="1080" cy="140" r="4" fill="#00E676">
+
+<animate
+attributeName="opacity"
+values="0;1;0"
+dur="4s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="160" cy="135" r="2" fill="#58A6FF">
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+</svg>
