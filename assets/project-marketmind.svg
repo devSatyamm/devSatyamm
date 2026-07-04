@@ -1,0 +1,166 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="900" y2="320">
+<stop offset="0%" stop-color="#161B22"/>
+<stop offset="100%" stop-color="#0D1117"/>
+</linearGradient>
+
+<linearGradient id="border" x1="0" y1="0" x2="900" y2="320">
+<stop offset="0%" stop-color="#00C853"/>
+<stop offset="100%" stop-color="#58A6FF"/>
+</linearGradient>
+
+<linearGradient id="title" x1="0" y1="0" x2="500" y2="0">
+<stop offset="0%" stop-color="#00E676"/>
+<stop offset="100%" stop-color="#58A6FF"/>
+</linearGradient>
+
+<filter id="shadow">
+<feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#00C853" flood-opacity="0.25"/>
+</filter>
+
+</defs>
+
+<rect
+x="4"
+y="4"
+width="892"
+height="312"
+rx="24"
+fill="url(#bg)"
+stroke="url(#border)"
+stroke-width="2"
+filter="url(#shadow)"/>
+
+<text
+x="40"
+y="60"
+font-size="34"
+font-family="Segoe UI"
+font-weight="700"
+fill="url(#title)">
+
+🚀 MarketMind
+
+</text>
+
+<text
+x="40"
+y="95"
+font-size="18"
+font-family="Segoe UI"
+fill="#8B949E">
+
+AI Powered Financial Intelligence Platform
+
+</text>
+
+<text
+x="40"
+y="145"
+font-size="18"
+font-family="Segoe UI"
+fill="#F8FAFC">
+
+✓ AI News Analysis
+
+</text>
+
+<text
+x="40"
+y="175"
+font-size="18"
+font-family="Segoe UI"
+fill="#F8FAFC">
+
+✓ Government Scheme Oracle
+
+</text>
+
+<text
+x="40"
+y="205"
+font-size="18"
+font-family="Segoe UI"
+fill="#F8FAFC">
+
+✓ Startup Funding Database
+
+</text>
+
+<text
+x="40"
+y="235"
+font-size="18"
+font-family="Segoe UI"
+fill="#F8FAFC">
+
+✓ Investment Simulator
+
+</text>
+
+<rect
+x="560"
+y="55"
+width="280"
+height="180"
+rx="18"
+fill="#0D1117"
+stroke="#30363D"/>
+
+<text
+x="700"
+y="155"
+text-anchor="middle"
+fill="#00C853"
+font-size="22"
+font-family="Segoe UI"
+font-weight="700">
+
+Preview
+
+</text>
+
+<rect
+x="40"
+y="265"
+width="120"
+height="36"
+rx="18"
+fill="#00C853"/>
+
+<text
+x="100"
+y="288"
+text-anchor="middle"
+fill="white"
+font-size="16"
+font-family="Segoe UI">
+
+Live Demo
+
+</text>
+
+<rect
+x="180"
+y="265"
+width="120"
+height="36"
+rx="18"
+fill="#21262D"/>
+
+<text
+x="240"
+y="288"
+text-anchor="middle"
+fill="white"
+font-size="16"
+font-family="Segoe UI">
+
+GitHub
+
+</text>
+
+</svg>
