@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your_email_here">
+<a href="mailto:satyam.eng@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -59,11 +59,185 @@ Currently Building:
 
 # ⚡ Tech Stack
 
+<!-- PROJECTS -->
+
+<h1 align="center">🚀 Featured Projects</h1>
+
+<p align="center">
+Building products that solve real-world problems using AI, Full Stack Development, and Modern Technologies.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🚀 MarketMind
+
+> AI Powered Financial Intelligence Platform
+
+### ✨ Features
+
+- AI News Analysis
+- Government Scheme Oracle
+- Funding Database
+- Investment Simulation
+- Modern Dashboard
+
+**Tech**
+
+`JavaScript`
+`HTML`
+`CSS`
+`AI`
+
+<br>
+
+<a href="https://marketmind-world.vercel.app/">
+
+Live Demo
+
+</a>
+
+|
+
+<a href="https://github.com/devSatyamm/MarketMind">
+
+Repository
+
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devSatyamm&repo=MarketMind&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devSatyamm&repo=ThreatPilot&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%">
+
+### 🔒 ThreatPilot
+
+> AI Security Testing Platform
+
+### Features
+
+- AI Assisted Testing
+- Vulnerability Detection
+- Secure Reports
+- Modern UI
+- Intelligent Analysis
+
+**Tech**
+
+`Python`
+
+`AI`
+
+`Security`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 CampusConnect
+
+Student Collaboration Platform
+
+- Events
+- Notes
+- Clubs
+- Community
+- Resources
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devSatyamm&repo=campusconnect&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">⚡ Other Projects</h2>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css,nodejs,react,flutter,firebase,supabase,mongodb,mysql,git,github,linux,vscode,vercel&perline=10"/>
+| Project | Description |
+|----------|-------------|
+| 🌐 Portfolio | Personal Portfolio Website |
+| ⚡ Nexus | Experimental Full Stack Project |
 
 </div>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devSatyamm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=devSatyamm&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSatyamm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devSatyamm&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devSatyamm&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
