@@ -1,96 +1,110 @@
-# Hi there 👋 I'm Satyam Mishra
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Computer+Science+Student;Building+Impactful+Software;Always+Learning+%F0%9F%9A%80" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Satyam Mishra
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D47A1&height=220&section=header&text=Satyam%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=750&height=60&color=00C853&lines=AI+Developer;Full+Stack+Developer;Computer+Science+Student;Building+Impactful+Software;Always+Learning+Something+New"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devSatyamm&color=brightgreen"/>
-  <img src="https://img.shields.io/github/followers/devSatyamm?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/devSatyamm?affiliations=OWNER&style=for-the-badge"/>
-</p>
+<br>
 
----
+<a href="https://github.com/devSatyamm">
+<img src="https://img.shields.io/github/followers/devSatyamm?style=for-the-badge&logo=github&color=00C853&labelColor=0D1117"/>
+</a>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=devSatyamm&style=for-the-badge&color=00C853"/>
 
-- 🎓 B.Tech Computer Science student at **Manipal University Jaipur**
-- 🤖 Interested in **Artificial Intelligence, Full Stack Development & Software Engineering**
-- 🌱 Constantly learning and building real-world projects
-- 💡 Passionate about solving problems with technology
+<a href="https://linkedin.com/in/satyamofficial">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:your_email_here">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,nodejs,flutter,firebase,git,github,vscode,vercel,supabase"/>
-
-</p>
+</div>
 
 ---
 
-# 🌟 Featured Projects
+# 💫 About Me
 
-| Project | Description |
-|---------|-------------|
-| 🚀 **MarketMind** | AI-powered financial intelligence platform |
-| 🔒 **ThreatPilot** | AI-powered security testing platform |
-| 🎓 **CampusConnect** | Student collaboration platform |
-| 🌐 **Portfolio** | Personal portfolio website |
-| ⚡ **Nexus** | Experimental development project |
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
----
+```yaml
+Name: Satyam Mishra
 
-## 📈 GitHub Stats
+Education:
+   B.Tech Computer Science
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devSatyamm&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=devSatyamm&theme=tokyonight"/>
-</p>
+University:
+   Manipal University Jaipur
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSatyamm&layout=compact&theme=tokyonight"/>
-</p>
+Interests:
+   • Artificial Intelligence
+   • Full Stack Development
+   • Software Engineering
+   • Open Source
 
----
+Currently Learning:
+   • System Design
+   • Backend Development
+   • Cloud Technologies
 
-## 📊 Activity Graph
+Currently Building:
+   • AI Applications
+   • Developer Tools
+```
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devSatyamm&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devSatyamm&theme=tokyonight&column=4"/>
-</p>
+<br clear="right"/>
 
 ---
 
-## 🐍 Contribution Snake
+# ⚡ Tech Stack
 
-> Enable GitHub Actions in your profile repository and add the Platane snake workflow.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css,nodejs,react,flutter,firebase,supabase,mongodb,mysql,git,github,linux,vscode,vercel&perline=10"/>
+
+</div>
 
 ---
 
-## 🌐 Connect
+# 🚀 Currently Working On
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://linkedin.com/in/satyamofficial">LinkedIn</a> •
-<a href="https://github.com/devSatyamm">GitHub</a>
+<td width="50%">
 
-</p>
+### 🔥 Current Focus
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00C853,100:0D47A1"/>
-</p>
+- 🤖 AI Applications
+- 🌐 Full Stack Development
+- ⚙️ Backend Engineering
+- 📚 Data Structures & Algorithms
+- 🚀 Open Source
+
+</td>
+
+<td width="50%">
+
+### 🎯 2026 Goals
+
+- Build impactful software
+- Contribute to Open Source
+- Master System Design
+- Learn DevOps
+- Build scalable applications
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
