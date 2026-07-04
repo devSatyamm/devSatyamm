@@ -1,0 +1,60 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="line" x1="0" y1="40" x2="1200" y2="40">
+
+<stop offset="0%" stop-color="#0D1117"/>
+
+<stop offset="50%" stop-color="#00C853"/>
+
+<stop offset="100%" stop-color="#0D1117"/>
+
+</linearGradient>
+
+<filter id="glow">
+
+<feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+
+<feMerge>
+
+<feMergeNode in="coloredBlur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+</defs>
+
+<line
+x1="0"
+y1="40"
+x2="1200"
+y2="40"
+stroke="url(#line)"
+stroke-width="3"
+filter="url(#glow)"/>
+
+<circle cx="600" cy="40" r="6" fill="#00C853">
+
+<animate
+attributeName="r"
+values="5;8;5"
+dur="2s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="opacity"
+values="1;0.6;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="570" cy="40" r="2" fill="#58A6FF"/>
+
+<circle cx="630" cy="40" r="2" fill="#58A6FF"/>
+
+</svg>
