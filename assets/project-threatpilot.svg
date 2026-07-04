@@ -1,0 +1,136 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="900" y2="320">
+<stop offset="0%" stop-color="#161B22"/>
+<stop offset="100%" stop-color="#0D1117"/>
+</linearGradient>
+
+<linearGradient id="border" x1="0" y1="0" x2="900" y2="320">
+<stop offset="0%" stop-color="#00C853"/>
+<stop offset="100%" stop-color="#58A6FF"/>
+</linearGradient>
+
+<filter id="shadow">
+<feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00C853" flood-opacity="0.35"/>
+</filter>
+
+</defs>
+
+<rect
+x="5"
+y="5"
+width="890"
+height="310"
+rx="24"
+fill="url(#bg)"
+stroke="url(#border)"
+stroke-width="2"
+filter="url(#shadow)"/>
+
+<text
+x="40"
+y="60"
+fill="#00E676"
+font-size="34"
+font-family="Segoe UI"
+font-weight="700">
+
+🔒 ThreatPilot
+
+</text>
+
+<text
+x="40"
+y="95"
+fill="#8B949E"
+font-size="18"
+font-family="Segoe UI">
+
+AI Powered Security Testing Platform
+
+</text>
+
+<text
+x="40"
+y="145"
+fill="#F8FAFC"
+font-size="18"
+font-family="Segoe UI">
+
+✓ Vulnerability Analysis
+
+</text>
+
+<text
+x="40"
+y="175"
+fill="#F8FAFC"
+font-size="18"
+font-family="Segoe UI">
+
+✓ AI Assisted Security Testing
+
+</text>
+
+<text
+x="40"
+y="205"
+fill="#F8FAFC"
+font-size="18"
+font-family="Segoe UI">
+
+✓ Smart Security Reports
+
+</text>
+
+<text
+x="40"
+y="235"
+fill="#F8FAFC"
+font-size="18"
+font-family="Segoe UI">
+
+✓ Modern Dashboard
+
+</text>
+
+<rect
+x="560"
+y="55"
+width="290"
+height="180"
+rx="18"
+fill="#0D1117"
+stroke="#30363D"/>
+
+<path
+d="M705 110 L735 145 L790 95"
+stroke="#00C853"
+stroke-width="10"
+stroke-linecap="round"
+stroke-linejoin="round"
+fill="none"/>
+
+<rect
+x="40"
+y="265"
+width="135"
+height="36"
+rx="18"
+fill="#21262D"/>
+
+<text
+x="108"
+y="288"
+text-anchor="middle"
+fill="white"
+font-size="15"
+font-family="Segoe UI">
+
+Repository
+
+</text>
+
+</svg>
