@@ -64,13 +64,7 @@ Currently Learning:
 
 </p>
 
-# ⚡ Tech Arsenal
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,flutter,firebase,supabase,mongodb,mysql,git,github,linux,vscode,vercel&perline=10"/>
-
-</div>
 
 
 
