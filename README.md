@@ -22,27 +22,15 @@
 
 </div>
 
-<p align="center">
-<img src="./assets/section-header.svg" width="100%">
-</p>
 
-<p align="center">
 
-<img src="./assets/divider.svg"/>
 
-</p>
 
-<p align="center">
-<img src="./assets/section-header.svg" width="100%">
-</p>
+
 
 <h2 align="center">About Me</h2>
 
-<p align="center">
 
-<img src="./assets/terminal.svg" width="95%">
-
-</p>
 
 ```yaml
 Name: Satyam Mishra
@@ -73,9 +61,6 @@ Currently Learning:
   - Cloud Technologies
 ```
 
-<p align="center">
-
-<img src="./assets/divider.svg"/>
 
 </p>
 
@@ -87,9 +72,7 @@ Currently Learning:
 
 </div>
 
-<p align="center">
 
-<img src="./assets/divider.svg"/>
 
 </p>
 
@@ -107,9 +90,7 @@ Currently Learning:
 <!--                FEATURED PROJECTS                      -->
 <!-- ===================================================== -->
 
-<p align="center">
-<img src="./assets/section-header.svg" width="100%">
-</p>
+
 
 <h2 align="center">Featured Projects</h2>
 
@@ -241,11 +222,7 @@ My personal developer portfolio showcasing projects and skills.
 </p>
 
 
-<p align="center">
 
-<img src="./assets/divider.svg"/>
-
-</p>
 
 # 🛣️ Developer Journey
 
@@ -272,11 +249,7 @@ Next
 └── Open Source
 ```
 
-<p align="center">
 
-<img src="./assets/divider.svg"/>
-
-</p>
 
 # 🐍 Contribution Snake
 
@@ -286,9 +259,6 @@ Next
 
 </p>
 
-<p align="center">
-
-<img src="./assets/divider.svg"/>
 
 </p>
 
@@ -306,11 +276,7 @@ Next
 
 </p>
 
-<p align="center">
 
-<img src="./assets/divider.svg"/>
-
-</p>
 
 <div align="center">
 
